@@ -37,7 +37,6 @@ namespace HostComputer
         MatrixCaculation matrixCaculation;
         Thread dataProcessThread;
         Thread carMoveDataSendThread;
-        System.Timers.Timer timer1;
         int[] count = new int[5] { 0, 0, 0, 0, 0 };
 
         private double GlobalVelocity = 0.0;   //全局速率
@@ -78,6 +77,7 @@ namespace HostComputer
         #region 窗体初始化
         public MainWindow()
         {
+
             //对客户端和数据流进行初始化
             robotPos = new double[7];
             Upper_Lower_Com.tcAdsClient = new TcAdsClient();
@@ -107,6 +107,7 @@ namespace HostComputer
             //机器人运动摇杆数据发送线程
             carMoveDataSendThread = new Thread(carMoveDataSend);
             carMoveDataSendThread.Start();
+
         }
         #endregion
         #region 窗体加载事件（鼠标按下与抬起事件绑定）
@@ -186,6 +187,7 @@ namespace HostComputer
             CoupleMoveUp.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(CoupleMoveUp_MouseDown), true);
             CoupleMoveDown.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseUp), true);
             CoupleMoveDown.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseDown), true);
+            sliderValueShowInTextBlock();
         }
         #endregion
 
@@ -717,8 +719,8 @@ namespace HostComputer
                         }
                         armAngel1 = Upper_Lower_Com.R_ActPos;
                         CallPositionDeleget(TextBox10, Upper_Lower_Com.R_ActPos);
-                        robotPos[4] = Upper_Lower_Com.R_ActPos;
-                        //robotPos[4] = 45.0f;
+                        //robotPos[4] = Upper_Lower_Com.R_ActPos;
+                        robotPos[4] = 45.0f;
                         break;
                     case 10:
                         break;
@@ -774,7 +776,6 @@ namespace HostComputer
                     default:
                         break;
                 }
-                robotInteraction.UpdatePos(robotPos);
                 #endregion
 
                 #region 错误解析及状态指示更新
@@ -1001,6 +1002,7 @@ namespace HostComputer
             {
                 count = 0;  //轴索引清零
             }
+            robotInteraction.UpdatePos(robotPos);
         }
         #endregion
         #region 上\下位机机器人运动数据发送
