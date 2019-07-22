@@ -149,3 +149,16 @@ K:\HunanFile\Hunan\HostComputer\CircularGauge\obj\Debug\CircularGauge.csproj.Gen
 K:\HunanFile\Hunan\HostComputer\CircularGauge\obj\Debug\CircularGauge.csproj.CoreCompileInputs.cache
 K:\HunanFile\Hunan\HostComputer\CircularGauge\obj\Debug\CircularGauge.dll
 K:\HunanFile\Hunan\HostComputer\CircularGauge\obj\Debug\CircularGauge.pdb
+K:\QingDaoFile\HostComputer\CircularGauge\bin\Debug\CircularGauge.dll
+K:\QingDaoFile\HostComputer\CircularGauge\bin\Debug\CircularGauge.pdb
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.csprojAssemblyReference.cache
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\GeneratedInternalTypeHelper.g.cs
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge_MarkupCompile.cache
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge_MarkupCompile.lref
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\Themes\Generic.baml
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.g.resources
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.Properties.Resources.resources
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.csproj.GenerateResource.cache
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.csproj.CoreCompileInputs.cache
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.dll
+K:\QingDaoFile\HostComputer\CircularGauge\obj\Debug\CircularGauge.pdb

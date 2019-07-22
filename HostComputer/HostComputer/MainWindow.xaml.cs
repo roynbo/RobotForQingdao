@@ -116,34 +116,34 @@ namespace HostComputer
             //鼠标点击事件绑定，鼠标按下与抬起分开定义
             slider1.AddHandler(Slider.MouseLeftButtonUpEvent, new MouseButtonEventHandler(slider1_MouseLeftButtonUp), true); //全局速率滑动条事件
             //点动模式车履带运动与摆动鼠标按下与抬起事件
-            CarBtn1.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn2.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn3.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn4.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+            //CarBtn1.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+           // CarBtn2.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+            //CarBtn3.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+            //CarBtn4.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn5.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn6.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn7.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn8.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn9.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn10.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn11.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn12.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+            //CarBtn9.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+           // CarBtn10.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+           // CarBtn11.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
+          //  CarBtn12.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn13.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn14.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn15.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
             CarBtn16.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(btn_MouseDown), true);
-            CarBtn1.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn2.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn3.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn4.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+            //CarBtn1.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+            //CarBtn2.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+            //CarBtn3.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+            //CarBtn4.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn5.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn6.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn7.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn8.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn9.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn10.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn11.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
-            CarBtn12.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+           // CarBtn9.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+           // CarBtn10.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+           // CarBtn11.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
+           // CarBtn12.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn13.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn14.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
             CarBtn15.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(btn_MouseUp), true);
@@ -606,46 +606,46 @@ namespace HostComputer
                     case 0:
                         if (Upper_Lower_Com.R_Enable != 0)
                         {
-                            CallBlueDeleget(Image1);
+                            //CallBlueDeleget(Image1);
                         }
                         else
                         {
-                            CallRedDeleget(Image1);
+                            //CallRedDeleget(Image1);
                         }
-                        CallPositionDeleget(TextBox1, Upper_Lower_Com.R_ActPos);
+                       // CallPositionDeleget(TextBox1, Upper_Lower_Com.R_ActPos);
                         break;
                     case 1:
                         if (Upper_Lower_Com.R_Enable != 0)
                         {
-                            CallBlueDeleget(Image2);
+                            //CallBlueDeleget(Image2);
                         }
                         else
                         {
-                            CallRedDeleget(Image2);
+                           // CallRedDeleget(Image2);
                         }
-                        CallPositionDeleget(TextBox2, Upper_Lower_Com.R_ActPos);
+                       // CallPositionDeleget(TextBox2, Upper_Lower_Com.R_ActPos);
                         break;
                     case 2:
                         if (Upper_Lower_Com.R_Enable != 0)
                         {
-                            CallBlueDeleget(Image3);
+                         //  CallBlueDeleget(Image3);
                         }
                         else
                         {
-                            CallRedDeleget(Image3);
+                          //  CallRedDeleget(Image3);
                         }
-                        CallPositionDeleget(TextBox3, Upper_Lower_Com.R_ActPos);
+                        //CallPositionDeleget(TextBox3, Upper_Lower_Com.R_ActPos);
                         break;
                     case 3:
                         if (Upper_Lower_Com.R_Enable != 0)
                         {
-                            CallBlueDeleget(Image4);
+                           // CallBlueDeleget(Image4);
                         }
                         else
                         {
-                            CallRedDeleget(Image4);
+                           // CallRedDeleget(Image4);
                         }
-                        CallPositionDeleget(TextBox4, Upper_Lower_Com.R_ActPos);
+                       // CallPositionDeleget(TextBox4, Upper_Lower_Com.R_ActPos);
                         break;
                     case 4:
                         if (Upper_Lower_Com.R_Enable != 0)

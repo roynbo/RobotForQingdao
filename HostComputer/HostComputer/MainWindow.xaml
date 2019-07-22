@@ -239,10 +239,6 @@
 						DialTextColor="DarkBlue" Margin="202,35.333,0,0" />
 
                     <Grid Grid.Column="2" Grid.RowSpan="3" Margin="0,0,0,0">
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="9*"/>
-                            <RowDefinition Height="9*"/>
-                        </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
@@ -262,57 +258,35 @@
                                         <RowDefinition  Height="70*"/>
                                         <RowDefinition  Height="70*"/>
                                         <RowDefinition  Height="70*"/>
-                                        <RowDefinition  Height="29*"/>
-                                        <RowDefinition Height="41*"/>
                                         <RowDefinition  Height="70*"/>
                                         <RowDefinition  Height="70*"/>
                                         <RowDefinition  Height="70*"/>
                                     </Grid.RowDefinitions>
                                     <Label Grid.Row="0" Grid.Column="0" Margin="14,13,13,13.5" VerticalAlignment="Center" FontSize="11" Width="40" Height="26" VerticalContentAlignment="Center">车轴：</Label>
-                                    <Label Grid.Row="0" Grid.Column="1" Margin="10,13,10,9.5" VerticalAlignment="Center" FontSize="11" Height="30" HorizontalAlignment="Center" VerticalContentAlignment="Center">动作1：</Label>
-                                    <Label Grid.Row="0" Grid.Column="2" Margin="0,-1,1,69.5" FontSize="11" Height="54" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="66" Grid.RowSpan="2">动作2：</Label>
-                                    <Label Grid.Row="0" Grid.Column="3" Margin="5,13,4,13.5" VerticalAlignment="Center" FontSize="11" Width="40" Height="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">位置：</Label>
-                                    <Label Grid.Row="0" Grid.Column="4" Margin="10,15,2,11.5" VerticalAlignment="Center" FontSize="11" Height="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center">使能：</Label>
-                                    <Label Grid.Row="1" Grid.Column="0" Margin="2,23.5,2,10.5" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="36">右前轮：</Label>
-                                    <Label Grid.Row="2" Grid.Column="0" Margin="2,23.5,2,10.5" VerticalAlignment="Center" Height="36">左前轮：</Label>
-                                    <Label Grid.Row="3" Grid.Column="0" Margin="2,25.5,2,10.5" VerticalAlignment="Center" Height="34">左后轮：</Label>
-                                    <Label Grid.Row="4" Grid.Column="0" Margin="2,23.5,2,10.5" VerticalAlignment="Center" Height="36">右后轮：</Label>
-                                    <Label Grid.Row="5" Grid.Column="0" Margin="2,23.5,0,6.5" VerticalAlignment="Center" Height="40" Grid.RowSpan="2">右前摆臂：</Label>
-                                    <Label Grid.Row="7" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">左前摆臂：</Label>
-                                    <Label Grid.Row="8" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">左后摆臂：</Label>
-                                    <Label Grid.Row="9" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">右后摆臂：</Label>
-                                    <TextBlock  Name="TextBox1" Grid.Row="1" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox2" Grid.Row="2" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox3" Grid.Row="3" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox4" Grid.Row="4" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox5" Grid.Row="5" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left" Grid.RowSpan="2"/>
-                                    <TextBlock  Name="TextBox6" Grid.Row="7" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox7" Grid.Row="8" Grid.Column="3" Margin="5,27.5,0,26.5" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <TextBlock  Name="TextBox8" Grid.Row="9" Grid.Column="3" Margin="5,27.5,0,26.5"  FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
-                                    <Button x:Name="CarBtn1" Grid.Column="1" Grid.Row="1" Margin="7,5.5,0,6.5" Height="57" Width="55" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="前" HorizontalAlignment="Left"/>
-                                    <Button x:Name="CarBtn2" Grid.Column="1" Grid.Row="2" Margin="5,0,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="前" VerticalAlignment="Bottom"/>
-                                    <Button x:Name="CarBtn3" Grid.Column="1" Grid.Row="3" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="前"/>
-                                    <Button x:Name="CarBtn4" Grid.Column="1" Grid.Row="4" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="前"/>
-                                    <Button x:Name="CarBtn5" Grid.Column="1" Grid.Row="5" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上" Grid.RowSpan="2" />
-                                    <Button x:Name="CarBtn6" Grid.Column="1" Grid.Row="7" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
-                                    <Button x:Name="CarBtn7" Grid.Column="1" Grid.Row="8" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
-                                    <Button x:Name="CarBtn8" Grid.Column="1" Grid.Row="9" Margin="5,5.5,5,8.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
-                                    <Button  x:Name="CarBtn9" Grid.Column="2" Grid.Row="1" Margin="5,5.5,5,6.5" Content="后" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp"/>
-                                    <Button  x:Name="CarBtn10" Grid.Column="2" Grid.Row="2" Margin="5,5.5,5,6.5" Content="后" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Button  x:Name="CarBtn11" Grid.Column="2" Grid.Row="3" Margin="5,5.5,5,8.5" Content="后" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Button x:Name="CarBtn12" Grid.Column="2" Grid.Row="4" Margin="5,5.5,5,6.5" Content="后" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Button x:Name="CarBtn13" Grid.Column="2" Grid.Row="5" Margin="5,5.5,5,6.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Grid.RowSpan="2"  />
-                                    <Button x:Name="CarBtn14" Grid.Column="2" Grid.Row="7" Margin="5,5.5,5,6.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Button x:Name="CarBtn15" Grid.Column="2" Grid.Row="8" Margin="5,5.5,5,6.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Button x:Name="CarBtn16" Grid.Column="2" Grid.Row="9" Margin="5,5.5,5,8.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
-                                    <Image x:Name="Image1" Height="50" Grid.Column="4" Grid.Row="1" Width="20" Source="skin/red_light.png" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="15,9.5,15,10.5"/>
-                                    <Image x:Name="Image2" Height="22" Grid.Column="4" Grid.Row="2" Width="20" Source="skin/red_light.png" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="15,23.5,15,24.5"/>
-                                    <Image x:Name="Image3" Grid.Column="4" Grid.Row="3" Width="20" Source="skin/red_light.png" Margin="15,25.5,15,18.5"/>
-                                    <Image x:Name="Image4" Grid.Column="4" Grid.Row="4" Width="20" Source="skin/red_light.png" Margin="15,25.5,15,18.5"/>
-                                    <Image x:Name="Image5" Grid.Column="4" Grid.Row="5" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,10.5" Grid.RowSpan="2"/>
-                                    <Image x:Name="Image6" Grid.Column="4" Grid.Row="7" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,10.5"/>
-                                    <Image x:Name="Image7" Grid.Column="4" Grid.Row="8" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,6.5"/>
-                                    <Image x:Name="Image8" Grid.Column="4" Grid.Row="9" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,10.5"/>
+                                    <Label Grid.Row="0" Grid.Column="1" Margin="10,14,10,15" VerticalAlignment="Center" FontSize="11" Height="30" HorizontalAlignment="Center" VerticalContentAlignment="Center">动作1：</Label>
+                                    <Label Grid.Row="0" Grid.Column="2" Margin="1,2,0,3" FontSize="11" Height="54" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="66">动作2：</Label>
+                                    <Label Grid.Row="0" Grid.Column="3" Margin="4,16,5,17" VerticalAlignment="Center" FontSize="11" Width="40" Height="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">位置：</Label>
+                                    <Label Grid.Row="0" Grid.Column="4" Margin="6,16,6,17" VerticalAlignment="Center" FontSize="11" Height="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center">使能：</Label>
+                                    <Label Grid.Row="1" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="40">右前摆臂：</Label>
+                                    <Label Grid.Row="2" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">左前摆臂：</Label>
+                                    <Label Grid.Row="3" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">左后摆臂：</Label>
+                                    <Label Grid.Row="4" Grid.Column="0" Margin="2,23.5,0,10.5" VerticalAlignment="Center" Height="36">右后摆臂：</Label>
+                                    <TextBlock  Name="TextBox5" Grid.Row="1" Grid.Column="3" Margin="21,35,0,29" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
+                                    <TextBlock  Name="TextBox6" Grid.Row="2" Grid.Column="3" Margin="21,31,0,32" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
+                                    <TextBlock  Name="TextBox7" Grid.Row="3" Grid.Column="3" Margin="21,33,0,30" FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
+                                    <TextBlock  Name="TextBox8" Grid.Row="4" Grid.Column="3" Margin="21,30,0,33"  FontSize="12" VerticalAlignment="Center" Text="0" HorizontalAlignment="Left"/>
+                                    <Button x:Name="CarBtn5" Grid.Column="1" Grid.Row="1" Margin="5,14,5,8" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上" />
+                                    <Button x:Name="CarBtn6" Grid.Column="1" Grid.Row="2" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
+                                    <Button x:Name="CarBtn7" Grid.Column="1" Grid.Row="3" Margin="5,5.5,5,6.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
+                                    <Button x:Name="CarBtn8" Grid.Column="1" Grid.Row="4" Margin="5,5.5,5,8.5" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" Content="上"/>
+                                    <Button x:Name="CarBtn13" Grid.Column="2" Grid.Row="1" Margin="5,14,5,8" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp"  />
+                                    <Button x:Name="CarBtn14" Grid.Column="2" Grid.Row="2" Margin="5,5.5,5,6.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
+                                    <Button x:Name="CarBtn15" Grid.Column="2" Grid.Row="3" Margin="5,5.5,5,6.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
+                                    <Button x:Name="CarBtn16" Grid.Column="2" Grid.Row="4" Margin="5,5.5,5,8.5" Content="下" Height="57" MouseDown="btn_MouseDown" MouseUp="btn_MouseUp" />
+                                    <Image x:Name="Image5" Grid.Column="4" Width="20" Source="skin/red_light.png" Margin="15,33,15,46" Grid.RowSpan="3"/>
+                                    <Image x:Name="Image6" Grid.Column="4" Grid.Row="2" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,10.5"/>
+                                    <Image x:Name="Image7" Grid.Column="4" Grid.Row="3" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,6.5"/>
+                                    <Image x:Name="Image8" Grid.Column="4" Grid.Row="4" Width="20" Source="skin/red_light.png" Margin="15,9.5,15,10.5"/>
                                 </Grid>
                             </TabItem>
                             <TabItem Header="手点动" HorizontalContentAlignment="Center" Height="40" VerticalAlignment="Top" Margin="3,-1,-7,0">
