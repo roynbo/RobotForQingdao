@@ -483,7 +483,7 @@
                     </MenuItem>
                 </Menu>
 
-                <Slider Name="slider1" Canvas.Left="393" Canvas.Top="523" Width="240"  HorizontalAlignment="Center" VerticalAlignment="Center" MouseLeftButtonUp="slider1_MouseLeftButtonUp" Maximum="5" />
+                <Slider Name="slider1" Canvas.Left="393" Canvas.Top="523" Width="240"  HorizontalAlignment="Center" VerticalAlignment="Center" MouseLeftButtonUp="slider1_MouseLeftButtonUp" Maximum="5" Value="2.5" />
                 <Button Name="SliderLeftButton" Width="20" Height="20" Canvas.Left="360" Canvas.Top="521" Click="SliderLeftButton_Click">
                     <Button.Background>
                         <ImageBrush ImageSource="skin/sliderleft.png"/>
@@ -495,7 +495,7 @@
                     </Button.Background>
                 </Button>
                 <ListBox Name="Error" Height="201" Canvas.Top="537" Width="305" Canvas.Left="4" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
-                <TextBlock Name="PercentageShow" Text="0.0%" Canvas.Left="670" TextWrapping="Wrap" Canvas.Top="523" RenderTransformOrigin="-0.978,0.496" />
+                <TextBlock Name="PercentageShow" Text="50.0%" Canvas.Left="670" TextWrapping="Wrap" Canvas.Top="523" RenderTransformOrigin="-0.978,0.496" />
                 <Button Name="WaterWeapon" Width="55" Height="55" Canvas.Top="64" Canvas.Left="20" ToolTip="水炮枪操作" Click="WaterWeapon_Click">
                     <Button.Background>
                         <ImageBrush ImageSource="skin/WaterWeapen.png"/>
