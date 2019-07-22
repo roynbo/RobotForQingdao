@@ -719,8 +719,8 @@ namespace HostComputer
                         }
                         armAngel1 = Upper_Lower_Com.R_ActPos;
                         CallPositionDeleget(TextBox10, Upper_Lower_Com.R_ActPos);
-                        //robotPos[4] = Upper_Lower_Com.R_ActPos;
-                        robotPos[4] = 45.0f;
+                        robotPos[4] = Upper_Lower_Com.R_ActPos;
+                        //robotPos[4] = 45.0f;
                         break;
                     case 10:
                         break;
@@ -1812,6 +1812,10 @@ namespace HostComputer
             }
             PercentageShow.Text = stringval + "%"; //全局速率百分比录入
             myGauge2.CurrentValue = value; //当前速率仪表盘值
+            GlobalVelocity = value_Decide(slider1.Value);
+            pointvelocity = GlobalVelocity * 20.0;
+            frontwheelvelocity = GlobalVelocity * 20.0;
+            backwheelvelocity = GlobalVelocity * 20.0;
         }
         private double value_Decide(double value) //全局速率格式化
         {
