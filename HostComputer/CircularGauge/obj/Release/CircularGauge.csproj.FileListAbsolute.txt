@@ -1,0 +1,12 @@
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\bin\Release\CircularGauge.dll
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\bin\Release\CircularGauge.pdb
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.csprojResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge_MarkupCompile.cache
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge_MarkupCompile.lref
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\Themes\Generic.baml
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.g.resources
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.Properties.Resources.resources
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.dll
+E:\unity\上位机版本1\20161223\HostComputer\CircularGauge\obj\Release\CircularGauge.pdb

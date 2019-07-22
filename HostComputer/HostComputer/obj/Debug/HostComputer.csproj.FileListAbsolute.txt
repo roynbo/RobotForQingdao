@@ -1,0 +1,473 @@
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\上位机副本\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\上位机副本 - 副本\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\上位机副本3\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161115\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161116\上位机副本3 - 副本加清错\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161120\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161121\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161121\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161121\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161121\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161121\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161124\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161130\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161214\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20161223\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csprojFakesResolveAssemblyReference.cache
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\unity\上位机版本1\20171016\20170724\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\TwinCAT.Ads.xml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\App.g.cs
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csprojResolveAssemblyReference.cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\TwinCAT.Ads.xml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csprojResolveAssemblyReference.cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\App.g.cs
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+E:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+C:\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csprojResolveAssemblyReference.cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\App.g.cs
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\RobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csprojResolveAssemblyReference.cache
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\App.g.cs
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\0318SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\App.g.cs
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.Cache
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csprojAssemblyReference.cache
+C:\JYD\RoboticsInstitute\SpecialRobotPC\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CopyComplete
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.csprojAssemblyReference.cache
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\App.g.cs
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.cache
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CopyComplete
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+C:\Users\Krahets\Desktop\Work Now\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\HostComputer.exe.config
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\HostComputer.exe
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\HostComputer.pdb
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\CircularGauge.dll
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\TwinCAT.Ads.dll
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\CircularGauge.pdb
+K:\HunanFile\Hunan\HostComputer\HostComputer\bin\Debug\TwinCAT.Ads.xml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.csprojAssemblyReference.cache
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.ResolveComReference.cache
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\ButtonStyle.baml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\Dictionary1.baml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\Dictionary2.baml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\Simpleslider.baml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\MainWindow.g.cs
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\App.g.cs
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.cache
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer_MarkupCompile.lref
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\MainWindow.baml
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.g.resources
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resources.resources
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.cache
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CopyComplete
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.exe
+K:\HunanFile\Hunan\HostComputer\HostComputer\obj\Debug\HostComputer.pdb
