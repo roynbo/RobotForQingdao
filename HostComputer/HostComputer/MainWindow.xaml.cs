@@ -719,7 +719,7 @@ namespace HostComputer
                         }
                         armAngel1 = Upper_Lower_Com.R_ActPos;
                         CallPositionDeleget(TextBox10, Upper_Lower_Com.R_ActPos);
-                        robotPos[4] = Upper_Lower_Com.R_ActPos;
+                        robotPos[4] = Upper_Lower_Com.R_ActPos+ 156.0;
                         //robotPos[4] = 45.0f;
                         break;
                     case 10:
@@ -736,7 +736,7 @@ namespace HostComputer
                         }
                         armAngel2 = Upper_Lower_Com.R_ActPos;
                         CallPositionDeleget(TextBox11, Upper_Lower_Com.R_ActPos);
-                        robotPos[5] = Upper_Lower_Com.R_ActPos;
+                        robotPos[5] = Upper_Lower_Com.R_ActPos+ 29.8;
                         break;
                     case 12: //小臂
                         if (Upper_Lower_Com.R_Enable != 0)
@@ -749,7 +749,7 @@ namespace HostComputer
                         }
                         armAngel3 = Upper_Lower_Com.R_ActPos;
                         CallPositionDeleget(TextBox12, Upper_Lower_Com.R_ActPos);
-                        robotPos[6] = Upper_Lower_Com.R_ActPos;
+                        robotPos[6] = Upper_Lower_Com.R_ActPos-12.55;
                         break;
                     case 13: //腕转动
                         if (Upper_Lower_Com.R_Enable != 0)
