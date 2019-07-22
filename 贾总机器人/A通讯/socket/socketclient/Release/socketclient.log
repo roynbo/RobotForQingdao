@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/4/2 11:29:10。
+     1>项目“C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\socketclient\socketclient.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\socketclient.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt socketclient.cpp
+         socketclient.cpp
+     1>socketclient.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(272): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(349): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(384): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(456): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(492): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(528): warning C4018: “<”: 有符号/无符号不匹配
+     1>socketclient.cpp(564): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\Release\socketclient.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\Release\socketclient.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\Release\socketclient.lib" /MACHINE:X86 /SAFESEH Release\socketclient.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         socketclient.vcxproj -> C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\Release\socketclient.exe
+     1>已完成生成项目“C:\Users\admin\Desktop\备份\tcp在自己的电脑测试\客户端\一个服务器多个客户端测试\socket\socket\socketclient\socketclient.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.75
