@@ -39,7 +39,7 @@ namespace HostComputer
         #region 连接下位机
         public void ConnectUpLow()
         {          
-                AmsAddress serverAddress = new AmsAddress("192.168.1.222.1.1", Int32.Parse("bf02", System.Globalization.NumberStyles.HexNumber));
+                AmsAddress serverAddress = new AmsAddress("192.168.1.233.1.1", Int32.Parse("bf02", System.Globalization.NumberStyles.HexNumber));
                 try
                 {
                     tcAdsClient.Connect(serverAddress.NetId, serverAddress.Port);
