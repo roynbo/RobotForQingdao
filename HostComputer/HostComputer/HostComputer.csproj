@@ -78,6 +78,9 @@
     <Compile Include="RobotInteraction.cs" />
     <Compile Include="SerialInterface.cs" />
     <Compile Include="Upper_Lower_Com.cs" />
+    <Compile Include="PopupWindow1.xaml.cs">
+      <DependentUpon>PopupWindow1.xaml</DependentUpon>
+    </Compile>
     <Page Include="ButtonStyle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -103,6 +106,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Simpleslider.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PopupWindow1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

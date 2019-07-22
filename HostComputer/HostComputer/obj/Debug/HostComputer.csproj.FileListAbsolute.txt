@@ -496,3 +496,5 @@ K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\HostComputer.Properties.Resou
 K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.GenerateResource.cache
 K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CoreCompileInputs.cache
 K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\HostComputer.csproj.CopyComplete
+K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\PopupWindow1.g.cs
+K:\QingDaoFile\HostComputer\HostComputer\obj\Debug\PopupWindow1.baml

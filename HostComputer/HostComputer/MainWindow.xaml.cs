@@ -188,6 +188,9 @@ namespace HostComputer
             CoupleMoveDown.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseUp), true);
             CoupleMoveDown.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseDown), true);
             sliderValueShowInTextBlock();
+            PopupWindow1 popwin = new PopupWindow1("nmb","寻参","退出");
+            popwin.Owner = App.Current.MainWindow;
+            popwin.Show();
         }
         #endregion
 
@@ -213,6 +216,7 @@ namespace HostComputer
             uplowcom.SendDoubleInstruct(0, 0x6);
             uplowcom.SendDoubleInstruct(0, 0x7);
             uplowcom.SendDoubleInstruct(0, 0x8);
+            U3DClose();
         }
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
@@ -2956,8 +2960,8 @@ namespace HostComputer
         }
         private void U3DClose()
         {
-            robotInteraction.udp_Close();
             threadSendMSg.Abort();
+            robotInteraction.udp_Close();
             p.Kill();
         }
         #endregion
