@@ -29,6 +29,8 @@ namespace HostComputer
     public partial class MainWindow : Window
     {
         #region 变量声明
+        bool homeFlag = false;
+        bool enableFlag = false;
         Process p;
         private double[] robotPos;
         private Upper_Lower_Com uplowcom;
@@ -188,9 +190,6 @@ namespace HostComputer
             CoupleMoveDown.AddHandler(Button.MouseUpEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseUp), true);
             CoupleMoveDown.AddHandler(Button.MouseDownEvent, new MouseButtonEventHandler(CoupleMoveDown_MouseDown), true);
             sliderValueShowInTextBlock();
-            PopupWindow1 popwin = new PopupWindow1("nmb","寻参","退出");
-            popwin.Owner = App.Current.MainWindow;
-            popwin.Show();
         }
         #endregion
 
@@ -519,6 +518,7 @@ namespace HostComputer
             //catch { }
 
             //去读14（8）根轴(车轮与摆臂)的相关量，并更新状态灯及数值
+            int enableCnt = 0;
             for (count = 0; count < 15; count++) //0-3是车轮，4-7是摆臂，9-15是机械臂
             {
                 #region 读各轴情况
@@ -554,6 +554,8 @@ namespace HostComputer
                     Upper_Lower_Com.tcAdsClient.ReadWrite(0x1, 0x1, Upper_Lower_Com.adsReadStream, Upper_Lower_Com.adsWriteStream);
                     byte[] databuffer3 = Upper_Lower_Com.adsReadStream.ToArray();
                     Upper_Lower_Com.R_Enable = BitConverter.ToUInt32(databuffer3, 0);
+                    if (Upper_Lower_Com.R_Enable != 0)
+                        enableCnt++;
                     //enableflag[count] = Upper_Lower_Com.R_Enable;
                 }
                 catch { }
@@ -1005,6 +1007,14 @@ namespace HostComputer
             if (count > 0)
             {
                 count = 0;  //轴索引清零
+            }
+            if(enableCnt==15)
+            {
+                enableFlag = true;
+            }
+            else
+            {
+                enableFlag = false;
             }
             robotInteraction.UpdatePos(robotPos);
         }
@@ -1890,6 +1900,17 @@ namespace HostComputer
         private void Connect_Up_Low_ClickEnvent(object sender, RoutedEventArgs e)
         {
             uplowcom.ConnectUpLow(); //连接上下位机
+        }
+        private void Robot_Enable_ClickEnvent(object sender, RoutedEventArgs e)
+        {
+            uplowcom.SendUintInstruct(20, 0x1);//车体上使能         
+            uplowcom.SendUintInstruct(30, 0x1);//机械臂上使能
+            if(!homeFlag&&enableFlag)
+            {
+                PopupWindow1 popwin = new PopupWindow1();
+                popwin.Owner = App.Current.MainWindow;
+                popwin.Show();
+            }
         }
 
         private void MI_Click(object sender, RoutedEventArgs e)

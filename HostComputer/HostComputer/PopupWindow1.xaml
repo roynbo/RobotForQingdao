@@ -5,11 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HostComputer"
         mc:Ignorable="d"
-        Title="Window1" Height="150" Width="250" 
+        Title="Window1" Height="250" Width="400" 
         WindowStyle="None" >
     <Grid>
-        <TextBlock Name="txblk" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="43" Width="222" TextAlignment="Center" FontSize="30"/>
-        <Button Name="btnLeft" Content="Button" HorizontalAlignment="Left" Margin="45,94,0,0" VerticalAlignment="Top" Width="50" Height="25" Click="btnLeft_Click"/>
-        <Button Name="btnRight" Content="Button" HorizontalAlignment="Right" Margin="0,94,45,0" VerticalAlignment="Top" Width="50" Height="25" Click="btnRight_Click"/>
+        <TextBlock Name="txblk" HorizontalAlignment="Center" Margin="10,10,10,0" TextWrapping="Wrap" Text="检测到机械臂未寻参，尚不可用，请先寻参" VerticalAlignment="Top" Height="150" Width="380" TextAlignment="Center" FontSize="30"/>
+        <Button Name="btnLeft" Content="寻参" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top" Width="100" Height="60" Click="btnLeft_Click" FontSize="20"/>
     </Grid>
 </Window>

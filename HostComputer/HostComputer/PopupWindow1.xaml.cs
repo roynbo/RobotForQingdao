@@ -22,24 +22,20 @@ namespace HostComputer
     {
         public PopupWindow1()
         {
-            InitializeComponent();
-        }
-        public PopupWindow1(string txmsg,string leftbtnmsg,string rightbtnmsg)
-        {
             WindowStartupLocation = WindowStartupLocation.CenterScreen;
             InitializeComponent();
-            txblk.Text = txmsg;
-            btnLeft.Content = leftbtnmsg;
-            btnRight.Content = rightbtnmsg;
         }
         private void btnLeft_Click(object sender, RoutedEventArgs e)
         {
-            txblk.Text = "寻参完毕";
+
         }
-        private void btnRight_Click(object sender, RoutedEventArgs e)
+        public void PopWindowClose()
         {
-            txblk.Text = "寻参失败";
             this.Close();
+        }
+        public void PopWindowMsgShow(string msg)
+        {
+            txblk.Text = msg;
         }
     }
 }
